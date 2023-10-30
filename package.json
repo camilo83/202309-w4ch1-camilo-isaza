@@ -1,7 +1,7 @@
 {
   "name": "week3",
   "version": "1.0.0",
-  "description": "Week 3 del Bootcamp",
+  "description": "Week 4 del Bootcamp",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "keywords": [],
-  "author": "Sergi Casiano",
+  "author": "Camilo Isaza",
   "license": "ISC",
   "prettier": {
     "singleQuote": true
@@ -42,6 +42,7 @@
     "ts-jest": "^29.1.1",
     "typescript": "^5.2.2",
     "vite": "^4.4.5",
+    "@vitejs/plugin-react": "^4.0.3",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7"
   },
